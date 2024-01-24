@@ -9042,7 +9042,7 @@ Arguments: ` +
     vM = C(
       "span",
       { class: "sub-header__copyright ml-4" },
-      "@ 2023 The DAWG coin company",
+      "@ 2024 The DAWG coin company",
       -1
     ),
     zM = { class: "sub-header__price" },
@@ -9575,7 +9575,7 @@ Arguments: ` +
       C(
         "div",
         { class: "text-lg lg:text-xl mb-2 lg:mb-8" },
-        "Tax : 1/1, DAWG",
+        "Tax : 0/0, DAWG",
         -1
       )
     ),
@@ -9596,7 +9596,7 @@ Arguments: ` +
       C(
         "div",
         { class: "text-lg lg:text-xl mb-2 lg:mb-0" },
-        " $DAWG coin will be publicly listed on Uniswap as a stealth launch!. ",
+        " $DAWG coin will be publicly listed on Solana as a stealth launch!. ",
         -1
       )
     ),
