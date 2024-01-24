@@ -9081,7 +9081,7 @@ Arguments: ` +
         no +
         '" alt=""></a><a href="buylink" class="relative"><img class="w-10 h-10 z-10" src="' +
         eo +
-        '" alt=""></a><a href="chartlink" class="relative"><img class="w-10 h-10 z-10" src="' +
+        '" alt=""></a><a href="https://dexscreener.com/solana/6umgekgv5p33t4us7hho3ybojyjgwpczggk5bgzrygml" class="relative"><img class="w-10 h-10 z-10" src="' +
         fo +
         '" alt=""></a></div>',
       3
@@ -9575,7 +9575,7 @@ Arguments: ` +
       C(
         "div",
         { class: "text-lg lg:text-xl mb-2 lg:mb-8" },
-        "Tax : 0/0, DAWG",
+        "Tax : 0/0, DAWG | CA: 4GZuGbosQbgo8vzSUPfazs3QrQ6LGf2c13FXwMiaz4ic",
         -1
       )
     ),
@@ -9951,7 +9951,7 @@ Arguments: ` +
         co +
         '" alt=""></a><a class="cursor-pointer" href="https://t.me/dawg_sol"><img class="w-10 h-10 z-10" src="' +
         no +
-        '" alt=""></a><a href="chartlink" class="relative"><img class="w-10 h-10 z-10" src="' +
+        '" alt=""></a><a href="https://dexscreener.com/solana/6umgekgv5p33t4us7hho3ybojyjgwpczggk5bgzrygml" class="relative"><img class="w-10 h-10 z-10" src="' +
         fo +
         '" alt=""></a><a href="buylink" class="relative"><img class="w-10 h-10 z-10" src="' +
         eo +
